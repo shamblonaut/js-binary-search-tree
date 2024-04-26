@@ -1,0 +1,27 @@
+{
+  "name": "js-binary-search-tree",
+  "version": "1.0.0",
+  "description": "JS implementation of balanced Binary Search Tree",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamblonaut/js-binary-search-tree.git"
+  },
+  "author": "Shamblonaut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shamblonaut/js-binary-search-tree/issues"
+  },
+  "homepage": "https://github.com/shamblonaut/js-binary-search-tree#readme",
+  "dependencies": {
+    "@shamblonaut/js-algorithms": "^1.0.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.1.1",
+    "eslint": "^9.1.1"
+  }
+}
